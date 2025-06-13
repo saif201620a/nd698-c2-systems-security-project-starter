@@ -3,5 +3,6 @@
 
 #Configuration lines:
 
-
+export APACHE_RUN_USER=apache-user
+export APACHE_RUN_GROUP=apache-group
 
