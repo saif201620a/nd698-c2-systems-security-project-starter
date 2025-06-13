@@ -2,6 +2,7 @@
 
 
 #Configuration lines:
+/etc/apache2/envvars
 
 export APACHE_RUN_USER=apache-user
 export APACHE_RUN_GROUP=apache-group
